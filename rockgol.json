@@ -1,7 +1,7 @@
 {
 "room": "Rockgol",
 "author": "Shuwray",
-"css": "https://rawgit.com/NobAprendiz/R-c-g-/master/rockgol.css",
+"css": "https://raw.githubusercontent.com/NobAprendiz/R-c-g-/master/rockgol.css",
 "rules":{
 "allowAutorespond": true,
 "allowAutowoot": true,
