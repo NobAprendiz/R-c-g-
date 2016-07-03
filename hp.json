@@ -2,7 +2,7 @@
     "room": "RockAves",
     "author": "Ciclano",
     "icon": null,
-    "css": "https://raw.githubusercontent.com/NobAprendiz/R-c-g-/master/hp.css",
+    "css": "https://rawgit.com/MusicForEveryOne/mfe/master/style.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
