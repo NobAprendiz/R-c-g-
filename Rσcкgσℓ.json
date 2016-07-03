@@ -1,8 +1,8 @@
 {
-    "room": "Rσcкgσℓ",
+    "room": "Rockgol",
     "author": "Shuwray",
     "icon": null,
-    "css": "https://rawgit.com/NobAprendiz/R-c-g-/master/R%CF%83c%D0%BAg%CF%83%E2%84%93.css",
+    "css": "https://raw.githubusercontent.com/NobAprendiz/R-c-g-/master/rockgol.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
