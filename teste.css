@@ -1,7 +1,5 @@
 /*CSS has been made for MFE Community*/
 
-@import url("https://rawgit.com/MusicForEveryOne/mfe/master/icons.css");
-
 .icon{
 background-image: url('http://i.imgur.com/FrHLx1j.png');
 }
@@ -16,11 +14,6 @@ top: 12px;
 #footer-user .item > .icon-history-white{
 background: url('https://i.imgur.com/EdPgEwe.png') !important;
 top: 12px;
-}
-#room-bar .icon-room{
-background-image: url('http://i.imgur.com/aFWlnXU.png');
-top: 11px;
-left: 7px;
 }
 #dashboard .icon-grab{
 background: url('http://i.imgur.com/Lh837G1.png');
